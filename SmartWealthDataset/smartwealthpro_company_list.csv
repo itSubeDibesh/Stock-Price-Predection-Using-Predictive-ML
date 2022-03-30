@@ -30,7 +30,6 @@ CompanyId,NepseId,Company,Symbol,Sector
 268,693,Civil Laghubitta Bittiya Sanstha Ltd.,CLBSL,Microfinance
 54,450,Corporate Development Bank Limited,CORBL,Development Banks
 269,166,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,Microfinance
-744,0,Deurali lagubitta Bitiya Sanstha Limited,DLBSL,Microfinance
 159,2754,Dibyashwori Hydropower Ltd.,DHPL,Hydro Power
 780,0,Emerging Nepal Limited,ENL,Investment
 11,137,Everest Bank Limited,EBL,Commercial Banks
@@ -124,7 +123,7 @@ CompanyId,NepseId,Company,Symbol,Sector
 573,2881,Nepal Reinsurance Company Limited,NRIC,Others
 37,135,Nepal SBI Bank Limited,SBI,Commercial Banks
 317,396,Nerude Laghubita Bikas Bank Limited,NLBBL,Microfinance
-742,0,Nesdo Sambridha Laghubitta Bittiya Sanstha Limited,NSLBSL,Microfinance
+742,0,Nesdo Sambridha Laghubitta Bittiya Sanstha Limited,NESDO,Microfinance
 169,2743,Ngadi Group Power Ltd.,NGPL,Hydro Power
 38,139,NIC Asia Bank Ltd.,NICA,Commercial Banks
 584,2887,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,Microfinance
@@ -214,7 +213,7 @@ CompanyId,NepseId,Company,Symbol,Sector
 729,0,Kumari Equity Fund,KEF,Mutual Fund
 186,2765,Laxmi Equity Fund,LEMF,Mutual Fund
 598,2902,Laxmi Unnati Kosh,LUK,Mutual Fund
-764,0,Mega Mutual Fund - 1,MMF 1,Mutual Fund
+764,0,Mega Mutual Fund - 1,MMF1,Mutual Fund
 768,0,Nabil Balanced Fund III,NBF3,Mutual Fund
 188,2835,NABIL BALANCED FUND-2,NBF2,Mutual Fund
 189,2753,Nabil Equity Fund,NEF,Mutual Fund
@@ -277,7 +276,6 @@ CompanyId,NepseId,Company,Symbol,Sector
 785,0,Jalpa Samudayik Laghubitta Bittiya Sanstha Limited Promoter Share,JALPAP,Microfinance
 125,0,Janaki Finance company Limited Promoter Share,JFLPO,Finance
 287,0,Janautthan Samudayic Laghubitta Bikas Bank Limited Promoter Share,JSLBBP,Microfinance
-757,0,Jeevan Bikas Laghubitta Bittiya Sanstha Limited -Promoter Share,JBLBP,Microfinance
 67,0,Jyoti Bikas Bank Limited Promoter Share,JBBLPO,Development Banks
 726,0,Jyoti Life Insurance Company Ltd.- Promoter Share,JLIP,Life Insurance
 290,0,Kalika Laghubitta Bittiya Sanstha Limited Promoter Share,KMCDBP,Microfinance
